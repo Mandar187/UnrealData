@@ -1,0 +1,14 @@
+{
+  "projects": [
+    {
+      "title": "Desert Cinematic",
+      "image": "https://yourcdn.com/desert.png",
+      "video": "https://yourcdn.com/desert.mp4"
+    },
+    {
+      "title": "Rain Fight Scene",
+      "image": "https://yourcdn.com/rain.png",
+      "video": "https://yourcdn.com/rain.mp4"
+    }
+  ]
+}
