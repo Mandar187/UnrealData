@@ -1,4 +1,9 @@
 {
+  "MyInfo": [
+    {
+      "MyPic": "https://raw.githubusercontent.com/Mandar187/UnrealData/main/Photos/MyPic.jpg"
+    }
+  ],
   "projects": [
     {
       "title": "Desert Cinematic",
