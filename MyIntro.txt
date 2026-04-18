@@ -1,0 +1,7 @@
+I'm Mandar, a game developer and Unreal Engine artist. I work on making immersive, cinematic experiences that combine storytelling with real-time technology. I love making interactive worlds that feel real, where design, visuals, and emotion all work together perfectly.
+
+I know a lot about Unreal Engine and have worked with C++, Blueprints, and 3D scene composition. I want to give people experiences that are both technically sound and visually stunning, from designing gameplay systems to making detailed environments and cinematic shots.
+
+This project is more than just a portfolio; it's a system that is always changing. Everything you see here is loaded in real time, including images and videos that are streamed directly from the internet. This is different from static content. This method is similar to how modern apps and games deal with content, which makes the experience feel active, connected, and always up to date.
+
+I want to go beyond traditional presentations and make something that people can interact with, where they don't just look at my work but also explore it. I try to make experiences that are unique and leave an impression, whether it's through dynamic UI systems, cinematic environments, or real-time content updates.
