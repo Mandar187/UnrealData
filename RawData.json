@@ -2,32 +2,39 @@
   "MyInfo": [
     {
       "MyPic": "https://raw.githubusercontent.com/Mandar187/UnrealData/main/Photos/MyPic.jpg",
-      "MyIntro": "https://raw.githubusercontent.com/Mandar187/UnrealData/main/MyIntro.txt"
+      "MyPicID": "0119042026001001",
+      "MyIntro": "https://raw.githubusercontent.com/Mandar187/UnrealData/main/MyIntro.txt",
+      "MyIntro": "0119042026002002"
     }
   ],
   "projects": [
     {
       "title": "Desert Cinematic",
+      "MyPicID": "0219042026001001",
       "image": "https://yourcdn.com/desert.png",
       "video": "https://yourcdn.com/desert.mp4"
     },
     {
       "title": "Rain Fight Scene",
+      "MyPicID": "0219042026002001",
       "image": "https://yourcdn.com/rain.png",
       "video": "https://yourcdn.com/rain.mp4"
     },
     {
       "title": "Rain Fight Scene",
+      "MyPicID": "0219042026003001",
       "image": "https://yourcdn.com/rain.png",
       "video": "https://yourcdn.com/rain.mp4"
     },
     {
       "title": "Rain Fight Scene",
+      "MyPicID": "0219042026004001",
       "image": "https://yourcdn.com/rain.png",
       "video": "https://yourcdn.com/rain.mp4"
     },
     {
       "title": "Rain Fight Scene",
+      "MyPicID": "0219042026005001",
       "image": "https://yourcdn.com/rain.png",
       "video": "https://yourcdn.com/rain.mp4"
     }
