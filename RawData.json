@@ -9,34 +9,10 @@
   ],
   "projects": [
     {
-      "ID": "0219042026001001",
-      "title": "Desert Cinematic",
-      "image": "https://yourcdn.com/desert.png",
-      "video": "https://yourcdn.com/desert.mp4"
-    },
-    {
-      "ID": "0219042026002001",
-      "title": "Rain Fight Scene",
-      "image": "https://yourcdn.com/rain.png",
-      "video": "https://yourcdn.com/rain.mp4"
-    },
-    {
-      "ID": "0219042026003001",
-      "title": "Rain Fight Scene",
-      "image": "https://yourcdn.com/rain.png",
-      "video": "https://yourcdn.com/rain.mp4"
-    },
-    {
-      "ID": "0219042026004001",
-      "title": "Rain Fight Scene",
-      "image": "https://yourcdn.com/rain.png",
-      "video": "https://yourcdn.com/rain.mp4"
-    },
-    {
-      "ID": "0219042026005001",
-      "title": "Rain Fight Scene",
-      "image": "https://yourcdn.com/rain.png",
-      "video": "https://yourcdn.com/rain.mp4"
+      "ID": "0219042026001002",
+      "title": "BarrelRender",
+      "image": "https://raw.githubusercontent.com/Mandar187/UnrealData/main/Photos/BarrelRender_IMG.png",
+      "video": "https://raw.githubusercontent.com/Mandar187/UnrealData/main/Videos/BarrelRender.mp4"
     }
   ]
 }
