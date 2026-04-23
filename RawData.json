@@ -12,7 +12,11 @@
       "ID": "0219042026001002",
       "title": "BarrelRender",
       "image": "https://raw.githubusercontent.com/Mandar187/UnrealData/main/Photos/BarrelRender_IMG.png",
-      "video": "https://raw.githubusercontent.com/Mandar187/UnrealData/main/Videos/BarrelRender.mp4"
+      "carousel": [
+        "Ford",
+        "BMW",
+        "Fiat"
+      ]
     }
   ]
 }
