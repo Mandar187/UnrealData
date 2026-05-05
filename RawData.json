@@ -2,14 +2,14 @@
   "MyInfo": [
     {
       "MyPic": "https://raw.githubusercontent.com/Mandar187/UnrealData/main/Photos/MyPic.jpg",
-      "MyPicID": "0119042026001001",
+      "MyPicID": "02052026.001",
       "MyIntro": "https://raw.githubusercontent.com/Mandar187/UnrealData/main/MyIntro.txt",
-      "MyIntroID": "0119042026002001"
+      "MyIntroID": "02052026.001"
     }
   ],
   "projects": [
     {
-      "ID": "0219042026001001",
+      "ID": "02.01.00.02052026",
       "title": "BarrelRender",
       "image": "https://raw.githubusercontent.com/Mandar187/UnrealData/main/Photos/BarrelRender/BarrelRender_IMG.png",
       "carousel": [
@@ -18,6 +18,68 @@
         "https://raw.githubusercontent.com/Mandar187/UnrealData/main/Photos/BarrelRender/BarrelRender_carousel_003.png",
         "https://raw.githubusercontent.com/Mandar187/UnrealData/main/Photos/BarrelRender/BarrelRender_carousel_004.png"
       ]
+    }
+  ],
+  "SkillsSoftware": [
+    {
+      "ID": "02052026.001",
+      "title": "Unreal Engine",
+      "Icon": "",
+      "Description": "Primary development platform with 3+ years of hands-on experience in real-time rendering, cinematics, and interactive systems."
+    },
+    {
+      "ID": "02052026.001",
+      "title": "After Effects",
+      "Icon": "",
+      "Description": "Used for compositing and transforming conceptual ideas into polished visual sequences."
+    },
+    {
+      "ID": "02052026.001",
+      "title": "Photoshop",
+      "Icon": "",
+      "Description": "Creation of UI elements, textures, and advanced image editing."
+    },
+    {
+      "ID": "02052026.001",
+      "title": "Audition",
+      "Icon": "",
+      "Description": "Audio editing and sound design for immersive experiences."
+    },
+    {
+      "ID": "02052026.001",
+      "title": "Git",
+      "Icon": "",
+      "Description": "Version control and project management across development pipelines."
+    },
+    {
+      "ID": "02052026.001",
+      "title": "Blender",
+      "Icon": "",
+      "Description": "Basic 3D modeling and minor asset modifications."
+    },
+    {
+      "ID": "02052026.001",
+      "title": "Premier Pro",
+      "Icon": "",
+      "Description": "Explored for video editing and content creation."
+    },
+    {
+      "ID": "02052026.001",
+      "title": "Maya",
+      "Icon": "",
+      "Description": ""
+    },
+    {
+      "ID": "02052026.001",
+      "title": "Illustrator",
+      "Icon": "",
+      "Description": "Fundamentals of vector design and graphic creation."
+    },
+    {
+      "ID": "02052026.001",
+      "title": "Sillhoute",
+      "Icon": "",
+      "Description": "Basic experience in rotoscoping and visual cleanup."
     }
   ]
 }
