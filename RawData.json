@@ -24,61 +24,61 @@
     {
       "ID": "02052026.001",
       "title": "Unreal Engine",
-      "Icon": "",
+      "Icon": "https://raw.githubusercontent.com/Mandar187/UnrealData/main/Photos/Icons/T_UnrealEngine.png",
       "Description": "Primary development platform with 3+ years of hands-on experience in real-time rendering, cinematics, and interactive systems."
     },
     {
       "ID": "02052026.001",
       "title": "After Effects",
-      "Icon": "",
+      "Icon": "https://raw.githubusercontent.com/Mandar187/UnrealData/main/Photos/Icons/T_AE.png",
       "Description": "Used for compositing and transforming conceptual ideas into polished visual sequences."
     },
     {
       "ID": "02052026.001",
       "title": "Photoshop",
-      "Icon": "",
+      "Icon": "https://raw.githubusercontent.com/Mandar187/UnrealData/main/Photos/Icons/T_Photoshop.png",
       "Description": "Creation of UI elements, textures, and advanced image editing."
     },
     {
       "ID": "02052026.001",
       "title": "Audition",
-      "Icon": "",
+      "Icon": "https://raw.githubusercontent.com/Mandar187/UnrealData/main/Photos/Icons/T_Audition.png",
       "Description": "Audio editing and sound design for immersive experiences."
     },
     {
       "ID": "02052026.001",
       "title": "Git",
-      "Icon": "",
+      "Icon": "https://raw.githubusercontent.com/Mandar187/UnrealData/main/Photos/Icons/T_Git.png",
       "Description": "Version control and project management across development pipelines."
     },
     {
       "ID": "02052026.001",
       "title": "Blender",
-      "Icon": "",
+      "Icon": "https://raw.githubusercontent.com/Mandar187/UnrealData/main/Photos/Icons/T_Blender.png",
       "Description": "Basic 3D modeling and minor asset modifications."
     },
     {
       "ID": "02052026.001",
       "title": "Premier Pro",
-      "Icon": "",
+      "Icon": "https://raw.githubusercontent.com/Mandar187/UnrealData/main/Photos/Icons/T_PremierPro.png",
       "Description": "Explored for video editing and content creation."
     },
     {
       "ID": "02052026.001",
       "title": "Maya",
-      "Icon": "",
+      "Icon": "https://raw.githubusercontent.com/Mandar187/UnrealData/main/Photos/Icons/T_Maya.png",
       "Description": ""
     },
     {
       "ID": "02052026.001",
       "title": "Illustrator",
-      "Icon": "",
+      "Icon": "https://raw.githubusercontent.com/Mandar187/UnrealData/main/Photos/Icons/T_Illustrator.png",
       "Description": "Fundamentals of vector design and graphic creation."
     },
     {
       "ID": "02052026.001",
       "title": "Sillhoute",
-      "Icon": "",
+      "Icon": "https://raw.githubusercontent.com/Mandar187/UnrealData/main/Photos/Icons/T_Sillhoutte.png",
       "Description": "Basic experience in rotoscoping and visual cleanup."
     }
   ]
